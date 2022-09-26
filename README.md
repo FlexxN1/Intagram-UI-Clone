@@ -1,4 +1,4 @@
-# Intagram UI Clone 🛒
+# Intagram UI Clone 🔗
 
 Es un clon de la UI de la red social Instagram.
 
